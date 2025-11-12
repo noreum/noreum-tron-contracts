@@ -1,3 +1,5 @@
+[![Verified by Noreum Cold Key](https://img.shields.io/badge/Verified%20by-Noreum%20Cold%20Key-gold?style=flat-square)](https://github.com/noreum)
+
 # noreum-tron-contracts
 Official TRON smart contracts for the Noreum (NOR) ecosystem — NOR token and bridge interfaces.
 
